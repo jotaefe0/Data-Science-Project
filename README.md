@@ -17,7 +17,7 @@ This project is intended to be for learning purposes by attempting to solve a re
 
  - How is the current state of the used car market? 
  - What is my used car worth in the current market?  
- - What will be the value of a car of given features?
+ - What will be the value of a car with given features?
 
 #  Development
 
