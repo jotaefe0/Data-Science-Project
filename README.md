@@ -25,5 +25,5 @@ The data is scrapped from mercadolibre argentina. 33951 rows of data were scrapp
 This incudes:
 ['brand', 'model', 'colour', 'fuel', 'doors', 'engine', 'location','price', 'year', 'transmision', 'km', 'type', 'url']
 
-In the Data Analysys notebook further information of the findings can be viewed.
+In the Data Analisys notebook further information of the findings can be viewed.
 Conclusions will be documented at in this section later.
