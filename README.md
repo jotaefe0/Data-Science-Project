@@ -21,7 +21,8 @@ This project is intended to be for learning purposes by attempting to solve a re
 
 #  Development
 
-The data is scrapped from mercadolibre argentina. 33951 rows of thata were scrapped this incuded:
+The data is scrapped from mercadolibre argentina. 33951 rows of data were scrapped. 
+This incudes:
 ['brand', 'model', 'colour', 'fuel', 'doors', 'engine', 'location','price', 'year', 'transmision', 'km', 'type', 'url']
 
 In the Data Analysys notebook further information of the findings can be viewed.
