@@ -9,7 +9,7 @@
  - [ ] Analyze Data...80% 
  - [ ] Create a ML model
  - [ ] Deploy model to production using Flask and Heroku
- - [ ] Automate the process by scripting the scrapper to add new rows to de databse and retrain model
+ - [ ] Automate the process by scripting the scrapper to add new rows to de databse and feed the ML model
 
 
 # Scope
