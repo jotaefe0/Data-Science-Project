@@ -7,7 +7,7 @@
  - [x] Create a web scrapper to gather data ✅
  - [x] Preprocess data and upload to SQL on AWS ✅
  - [ ] Analyze Data...80% (Conclusions pending) 
- - [x] Create a ML model
+ - [x] Create a ML model ✅
  - [ ] Deploy model to production using Flask and Heroku
  - [ ] Automate the process by scripting the scrapper to add new rows to de databse and feed the ML model
 
