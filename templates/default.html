@@ -1,0 +1,77 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <body>
+    <div class="center">
+    <div class="mb-3">
+      <form action="" method="post" class="form-label">
+      <input
+      type="text"
+      id="km"
+      list="val"
+      multiple="multiple"
+      class="searchTerm"
+      name="km"
+      placeholder="KM"
+      required
+    />
+    <input
+      type="text"
+      id="year"
+      list="val"
+      multiple="multiple"
+      class="searchTerm"
+      name="year"
+      placeholder="Year"
+      required
+    />
+    </div>
+    <div>
+      <select list="brand" name="brand">
+        {% for brand in brand %}
+        <option value="{{brand}}" selected>{{brand}}</option>
+        {% endfor %}
+      </select>
+      <select list="model" name="model">
+        {% for val in model %}
+        <option value="{{val}}" selected>{{val}}</option>
+        {% endfor %}
+      </select>
+      <select list="colour" name="colour">
+        {% for val in colour %}
+        <option value="{{val}}" selected>{{val}}</option>
+        {% endfor %}
+      </select>
+      <select list="type" name="type">
+        {% for val in cartype %}
+        <option value="{{val}}" selected>{{val}}</option>
+        {% endfor %}
+      </select>
+    </div>
+    
+    <select list="engine" name="engine">
+      {% for val in engine %}
+      <option value="{{val}}" selected>{{val}}</option>
+      {% endfor %}
+    </select>
+    <select list="fuel" name="fuel">
+      {% for val in fuel %}
+      <option value="{{val}}" selected>{{val}}</option>
+      {% endfor %}
+    </select>
+    <select list="transmision" name="transmision">
+      {% for val in transmision %}
+      <option value="{{val}}" selected>{{val}}</option>
+      {% endfor %}
+    </select>
+    <select list="city" name="city">
+      {% for val in city %}
+      <option value="{{val}}" selected>{{val}}</option>
+      {% endfor %}
+    </select>
+    <button class="button" type="submit" name="form">Predict
+    </button>
+  </form>
+    </div>
+
+    {% endblock %}
