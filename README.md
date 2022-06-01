@@ -13,7 +13,7 @@ It still need further improvement, but it did predicted my car with high accurac
  - [ ] Analyze Data...80% (Conclusions pending) 
  - [x] Create a ML model ✅
  - [x] Deploy model to production using Flask and Heroku ✅
- - [ ] Automate the process by scripting the scrapper to add new rows to de databse and feed the ML model
+ - [ ] Automate the process by scripting the scrapper to add new rows to the databse and feed the ML model
 
 
 # Scope
