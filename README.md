@@ -2,13 +2,17 @@
 
 **Note:** This project is currently in development
 
+MVP Model in https://carspredic.herokuapp.com/input
+It doesnt filter unreal cars, so you need to mannualy input a coherent car (eg if you put a 8v engine gol you will get a really expensive car)
+It still need further improvement, but it did predicted my car with high accuracy. (Peugeot 308 2.0 100KM year 2012 Black) --> 2M$
+
 ## Roadmap
 
  - [x] Create a web scrapper to gather data ✅
  - [x] Preprocess data and upload to SQL on AWS ✅
  - [ ] Analyze Data...80% (Conclusions pending) 
  - [x] Create a ML model ✅
- - [ ] Deploy model to production using Flask and Heroku
+ - [x] Deploy model to production using Flask and Heroku ✅
  - [ ] Automate the process by scripting the scrapper to add new rows to de databse and feed the ML model
 
 
