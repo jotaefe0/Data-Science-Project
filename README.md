@@ -13,10 +13,11 @@ It still needs further improvement, but it did predict my car with high accuracy
  - [x] Analyze Data ✅
  - [x] Create a ML model ✅
  - [x] Deploy model to production using Flask and Heroku ✅
- - [ ] Automate the process by scripting the scrapper to add new rows to the database and feed the ML model
  
- - Iterate over the process to improve the model!
- - Improve the front end
+ TODO
+ - [ ] Automate the process by scripting the scrapper to add new rows to the database and feed the ML model
+ - [ ] Iterate over the process to improve the model!
+ - [ ] Improve the front end
 
 # Scope
 
