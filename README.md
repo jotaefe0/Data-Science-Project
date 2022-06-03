@@ -85,7 +85,7 @@ This includes:
  
  Finnaly we plot a histogram of the data to understand this "mean values" and what they mean
  
- ![Price - Brands](/img/hisptlot.png "Hist plot")
+ ![Price - Brands](/img/histplot.png "Hist plot")
  
  As we can see, "Ram" has a high avg price, because the segment is "pick up" only, and also we can see that brands like "Mazda" have very few units' which means that the average will not be representative.
  
