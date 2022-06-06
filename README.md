@@ -92,6 +92,9 @@ This includes:
  
  In this way we can get most commons brands as an input for the model, and try to predict those prices.
  
+ ![Price - Choropleth](/img/image.png "Map")
+ 
+ Finnaly we created a Choropleth Map to see if there is any patter in the avg price and the location of the cars. We found that cars tend to be much more expensive in "Tierra del Fuego" and some provinces of the north. In Buenos Aires, the most populated province, cars tend to be cheaper on average, mainly because of the high offer.
   
  ## Model
  
