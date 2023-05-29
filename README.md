@@ -2,7 +2,7 @@
 
 **Note:** This project is currently in development
 
-MVP Model in https://carspredic.herokuapp.com/input
+MVP Model in [railway app](https://car-price-predict.up.railway.app/input)
 It doesn't filter unreal cars, so you need to manually input a coherent car (eg if you put a 8v engine gol you will get a really expensive car)
 It still needs further improvement, but it did predict my car with high accuracy. (Peugeot 308 2.0 100KM year 2012 Black) --> 2M$
 
